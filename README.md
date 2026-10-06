@@ -24,9 +24,12 @@ Si sale Servidor en http://localhost:3000, ya está. Se abre esa dirección en e
 
 ## Capturas de Postman
 
-- GET /usuarios, código 200.
-- GET /usuarios/99, código 404.
-- GET /productos, código 200.
+- GET /usuarios, código 200. <img width="719" height="680" alt="image" src="https://github.com/user-attachments/assets/f8775b0d-7bd4-4a26-8a0f-aa6726eb6680" />
+
+- GET /usuarios/99, código 404. <img width="706" height="505" alt="image" src="https://github.com/user-attachments/assets/78edb572-8f9c-4957-af21-c39d9735c54a" />
+
+- GET /productos, código 200. <img width="706" height="669" alt="image" src="https://github.com/user-attachments/assets/32ca8329-b237-47c3-85ee-2c921ba4d044" />
+
 
 ## Qué aprendí
 
